@@ -1,0 +1,63 @@
+[
+    {
+        "id": "0",
+        "name": "Latest Products",
+        "img": "img/1.png"
+    },
+    {
+        "id": "1",
+        "name": "Digital Watches ",
+        "img": "img/2.png"
+    },
+    {
+        "id": "3",
+        "name": "Smartwatches",
+        "img": "img/3.png"
+    },
+    {
+        "id": "4",
+        "name": "Sports Watches",
+        "img": "img/4.png"
+    },
+    {
+        "id": "5",
+        "name": "Luxury Watches",
+        "img": "img/5.png"
+    },
+    {
+        "id": "6",
+        "name": "Diving Watches ",
+        "img": "img/6.png"
+    },
+    {
+        "id": "7",
+        "name": "Military Watches",
+        "img": "img/7.png"
+    },
+    {
+        "id": "8",
+        "name": "Classic Watches",
+        "img": "img/8.png"
+    },
+    {
+        "id": "9",
+        "name": "Fashion Watches",
+        "img": "img/9.png"
+    },
+    {
+        "id": "10",
+        "name": "Quartz Watches",
+        "img": "img/10.png"
+    },
+    {
+        "id": "11",
+        "name": "Automatic Watches",
+        "img": "img/11.png"
+    },
+    {
+        "id": "12",
+        "name": "Chronograph Watches",
+        "img": "img/12.png"
+    }
+
+]
